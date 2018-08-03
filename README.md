@@ -6,6 +6,6 @@ Todo List project that allows user to add new tasks to todo list and delete them
 # Built with:
 HTML, CSS, Javascript/ES6, React
 
-#Features:
+# Features:
 * Add tasks
 * Delete tasks
