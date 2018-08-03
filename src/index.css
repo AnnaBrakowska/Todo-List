@@ -1,0 +1,14 @@
+body {
+    padding:50px;
+    font-family:arial;
+    background: linear-gradient(to right, #eecda3, #ef629f);
+}
+
+#container {
+    display:flex;
+    justify-content: center;
+}
+
+h1 {
+    text-align:center;
+}
